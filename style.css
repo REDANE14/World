@@ -1,0 +1,16 @@
+body {
+    /* background: url("img.jpg"); */
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.button {
+    padding: 20px;
+}
+
+.content {
+    text-align: center;
+    margin: 20%;
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+}
